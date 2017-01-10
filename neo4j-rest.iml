@@ -596,6 +596,47 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-ogm-embedded-driver:2.0.6" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-ogm-api:2.0.6" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.10" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-kernel:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-graphdb-api:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-resource:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-common:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-collections:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-primitive-collections:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-unsafe:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-io:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-csv:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-logging:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-security:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-lucene-upgrade:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.lucene:lucene-backward-codecs:5.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-lucene-index:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.lucene:lucene-analyzers-common:5.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.lucene:lucene-core:5.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.lucene:lucene-queryparser:5.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.lucene:lucene-codecs:5.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-graph-algo:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-udc:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-graph-matching:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-cypher:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.11.8" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-reflect:2.11.8" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-codegen:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm:5.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-cypher-compiler-2.3:2.3.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-cypher-frontend-2.3:2.3.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-cypher-compiler-3.0:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-cypher-frontend-3.0:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.parboiled:parboiled-scala_2.11:1.1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.parboiled:parboiled-core:1.1.7" level="project" />
+    <orderEntry type="library" name="Maven: net.sf.opencsv:opencsv:2.3" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:1.4.2" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-jmx:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.neo4j:neo4j-consistency-check:3.0.7" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-data-rest:1.4.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:1.4.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:1.4.3.RELEASE" level="project" />
@@ -623,15 +664,12 @@
     <orderEntry type="library" name="Maven: org.atteo:evo-inflector:1.2.1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-neo4j:4.1.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.neo4j:neo4j-ogm-core:2.0.6" level="project" />
-    <orderEntry type="library" name="Maven: org.neo4j:neo4j-ogm-api:2.0.6" level="project" />
-    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.10" level="project" />
     <orderEntry type="library" name="Maven: org.neo4j:neo4j-ogm-compiler:2.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.1" level="project" />
     <orderEntry type="library" name="Maven: org.neo4j:neo4j-ogm-http-driver:2.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.5" level="project" />
-    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:1.12.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.3.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.3.5.RELEASE" level="project" />
@@ -650,7 +688,6 @@
     <orderEntry type="library" scope="TEST" name="Maven: com.jayway.jsonpath:json-path:2.2.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: net.minidev:json-smart:2.2.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: net.minidev:accessors-smart:1.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.ow2.asm:asm:5.0.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.assertj:assertj-core:2.5.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-core:1.10.19" level="project" />
