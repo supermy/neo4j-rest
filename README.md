@@ -1,10 +1,10 @@
 # neo4j-ex
 
-[![Build Status](https://travis-ci.org/supermy/rule-interceptor.svg?branch=master)](https://github.com/supermy/rule-interceptor)
+[![Build Status](https://travis-ci.org/supermy/neo4j-rest.svg?branch=master)](https://github.com/supermy/neo4j-rest)
 
 缘起：用DB 实现一套RBAC 很不爽，寻寻觅觅，找到了Neo4j。
 
-图计算 [flume-rule-interceptor](https://github.com/supermy/rule-interceptor). 图形数据库适合用于社交网络，推荐系统等专注于构建关系图谱的系统。。
+图计算 [flume-rule-interceptor](https://github.com/supermy/neo4j-rest). 图形数据库适合用于社交网络，推荐系统等专注于构建关系图谱的系统。。
 在Neo4j里，图遍历执行的速度是常数，跟图的规模大小无关。不象在RDBMS里常见的联结操作那样，这里不涉及降低性能的集合操作。Neo4j以一种延迟风格遍历图 - 节点和关系只有在结果迭代器需要访问它们的时候才会被遍历并返回，对于大规模深度遍历而言，这极大地提高了性能。
 写速度跟文件系统的查找时间和硬件有很大关系。Ext3文件系统和SSD磁盘是不错的组合，这会导致每秒大约100,000写事务操作。
 
